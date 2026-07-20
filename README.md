@@ -12,7 +12,7 @@ This repository contains my Week 2 submission for the FlyRank General AI Fluency
 
 ## Deliverable
 
-📄 [Week 2 – Frame It as Cases](./frame-it-as-cases.pdf)
+📄week2-frame-it-as-cases.pdf
 
 ### Voice Card
 
